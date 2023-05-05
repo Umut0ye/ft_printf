@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: umoney <umoney@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/04/05 15:52:43 by umoney            #+#    #+#             */
-/*   Updated: 2023/04/05 15:52:45 by umoney           ###   ########.fr       */
+/*   Created: 2023/05/04 11:48:15 by umoney            #+#    #+#             */
+/*   Updated: 2023/05/05 18:38:35 by umoney           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,7 @@
 
 # define FT_PRINTF_H
 
+# include <stdio.h>
 # include <unistd.h>
 # include <stdarg.h>
 # include <stdlib.h>
